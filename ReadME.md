@@ -1,4 +1,4 @@
-# Airbus Ship Detection — Paper Reproduction
+# Airbus Ship Detection
 
 This project reproduces the main experiments from **“Airbus Ship Detection – Traditional v.s. Convolutional Neural Network Approach”** using the Airbus Ship Detection Challenge dataset from Kaggle.
 
